@@ -3,4 +3,4 @@
  font: "Cousine Nerd Font Mono 10";
  combi-modi: "window,drun,ssh,run";
  }
-@theme "rounded-gray-dark"
+@theme "Dracula_theme"

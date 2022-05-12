@@ -1,8 +1,9 @@
 /*Dracula theme based on the Purple official rofi theme*/
 
 * {
-    font: "Source Code Pro 12";
+    font: "Source Code Pro 9";
     foreground: #f8f8f2;
+    height: 23px;
     background-color: #282a36;
     active-background: #6272a4;
     urgent-background: #ff5555;
@@ -48,7 +49,7 @@
 }
 #element {
     border:  0;
-    padding: 1px ;
+    padding: 2px 8px ;
 }
 #element.normal.normal {
     background-color: @background-color;
